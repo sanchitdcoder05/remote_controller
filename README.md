@@ -66,7 +66,4 @@ cd remote_controller
 
 ---
 
-## 📜 License & Credits
-
 Designed and developed by **San App Productions**.  
-Distributed under the MIT License.
