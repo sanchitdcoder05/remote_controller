@@ -1,6 +1,6 @@
-# 📺 Samsung & Universal Smart TV Remote Control
+# 📺 Universal Smart TV Remote Control
 
-A modern, high-performance Android application built with **Jetpack Compose (Material 3)** to control Samsung Smart TVs and Universal TV brands via **Wi-Fi (WebSocket)**, **Bluetooth HID**, and **Infrared (IR Blaster)**.
+A modern, high-performance Android application built with **Jetpack Compose (Material 3)** to control Smart TVs and Universal TV brands via **Wi-Fi (WebSocket)**, **Bluetooth HID**, and **Infrared (IR Blaster)**.
 
 > **Made by San App Productions**
 
